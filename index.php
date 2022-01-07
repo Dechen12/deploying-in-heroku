@@ -1,4 +1,5 @@
-<?php include_once("fetch.html");
+<?php 
+include_once("fetch.html");
 include_once("post.html");
 
 ?>
